@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - GravityUp
+  - GravityDown
+  - GravityLeft
+  - GravityRight
   layers:
   - Default
   - TransparentFX
