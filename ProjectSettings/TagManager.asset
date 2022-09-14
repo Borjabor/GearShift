@@ -9,6 +9,8 @@ TagManager:
   - GravityDown
   - GravityLeft
   - GravityRight
+  - Key
+  - Death
   layers:
   - Default
   - TransparentFX

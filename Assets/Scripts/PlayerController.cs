@@ -2,17 +2,19 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField]
-    private float _moveSpeed = .2f;
+    //[SerializeField]
+    private float _moveSpeed = 300f;
     [SerializeField] 
     private float _jumpForce;
     [SerializeField] 
     private float _gameGravity = -30;
     private Vector2 _jumpDirection = Vector2.up;
     private bool _isOnSides = false;
+    private bool _isStuck = false;
     
     private Rigidbody2D _rb;
 
@@ -35,10 +37,11 @@ public class PlayerController : MonoBehaviour
         var collider = gameObject.GetComponent<Collider2D>() as CircleCollider2D;
         _rb = GetComponent<Rigidbody2D>();
         _characterRadius = collider.radius;
+        _moveSpeed = 300f;
+        _isStuck = false;
     }
 	
     void Update () {
-        Debug.Log(_isOnSides);
         if (_isOnSides)
         {
             _rb.velocity = new Vector2(_rb.velocity.x, _moveSpeed * Time.fixedDeltaTime);
@@ -75,6 +78,12 @@ public class PlayerController : MonoBehaviour
             _coyoteTimeCounter = 0f;
         }
 
+        //Key debugger
+        /*if (Input.GetKeyDown(KeyCode.DownArrow)) 
+        {
+            LockKey.CollectedKeys++;
+        }*/
+
         Vector2 inFront = transform.right * sideFacing;
         RaycastHit2D hit = Physics2D.Raycast (transform.position, inFront, _characterRadius + 0.01f, Ground);
         //Debug.DrawRay(transform.position, inFront);
@@ -91,10 +100,19 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         _isGrounded = Physics2D.OverlapCircle(_groundCheck.position, _checkRadius, Ground);
+        if (_isStuck)
+        {
+            _moveSpeed *= 0.9f;
+            if (_moveSpeed < 0.2f)
+            {
+                StartCoroutine(Respawn());
+            }
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+        
         
     }
 
@@ -143,6 +161,17 @@ public class PlayerController : MonoBehaviour
             _isOnSides = true;
             
         }
+
+        if (other.gameObject.CompareTag(("Key")))
+        {
+            Destroy(other.gameObject);
+            LockKey.CollectedKeys++;
+        }
+        
+        if (other.gameObject.CompareTag("Death"))
+        {
+            _isStuck = true;
+        }
     }
 
     private void Flip(){
@@ -188,9 +217,11 @@ public class PlayerController : MonoBehaviour
                 break;
         }
     }
-    
-    
 
-    
+    private IEnumerator Respawn()
+    {
+        yield return new WaitForSeconds(0.3f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
 
 }
