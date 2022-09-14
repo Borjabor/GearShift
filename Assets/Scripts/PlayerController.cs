@@ -9,6 +9,10 @@ public class PlayerController : MonoBehaviour
     private float _moveSpeed = .2f;
     [SerializeField] 
     private float _jumpForce;
+    [SerializeField] 
+    private float _gameGravity = -30;
+    private Vector2 _jumpDirection = Vector2.up;
+    private bool _isOnSides = false;
     
     private Rigidbody2D _rb;
 
@@ -24,12 +28,8 @@ public class PlayerController : MonoBehaviour
     
     private float _jumpBufferTime = 0.2f;
     private float _jumpBufferCounter;
+    private Gravity _gravity = Gravity.Down;
 
-    private bool _top;
-    private bool _bottom;
-    private bool _right;
-    private bool _left;
-    
 
     void Start () {
         var collider = gameObject.GetComponent<Collider2D>() as CircleCollider2D;
@@ -38,7 +38,16 @@ public class PlayerController : MonoBehaviour
     }
 	
     void Update () {
-        _rb.velocity = new Vector2(_moveSpeed * Time.fixedDeltaTime, _rb.velocity.y);
+        Debug.Log(_isOnSides);
+        if (_isOnSides)
+        {
+            _rb.velocity = new Vector2(_rb.velocity.x, _moveSpeed * Time.fixedDeltaTime);
+        }
+        else
+        {
+            _rb.velocity = new Vector2(_moveSpeed * Time.fixedDeltaTime, _rb.velocity.y);
+        }
+        
         if (_isGrounded)
         {
             _coyoteTimeCounter = _coyoteTime;
@@ -57,7 +66,7 @@ public class PlayerController : MonoBehaviour
         
         if (_jumpBufferCounter > 0f && _coyoteTimeCounter > 0f)
         {
-            _rb.velocity = Vector2.up * _jumpForce;
+            _rb.velocity = _jumpDirection * _jumpForce;
             _jumpBufferCounter = 0f;
         }
 
@@ -68,13 +77,15 @@ public class PlayerController : MonoBehaviour
 
         Vector2 inFront = transform.right * sideFacing;
         RaycastHit2D hit = Physics2D.Raycast (transform.position, inFront, _characterRadius + 0.01f, Ground);
-        Debug.DrawRay(transform.position, inFront);
+        //Debug.DrawRay(transform.position, inFront);
 
         if (hit.collider != null)
         {
             Flip();
             _moveSpeed *= -1;
         }
+
+        
     }
 
     private void FixedUpdate()
@@ -89,20 +100,48 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("GravityUp"))
+        if (other.gameObject.CompareTag("GravityUp") && _gravity != Gravity.Up)
         {
-            _rb.gravityScale *= -1;
-            _jumpForce *= -1;
-            Flip();
-            Rotation();
+            if (_gravity == Gravity.Down || _gravity == Gravity.Right)
+            {
+                Flip();
+            }
+            ChangeGravity(Gravity.Up);
+            _isOnSides = false;
+            
         }
         
-        if (other.gameObject.CompareTag("GravityDown"))
+        if (other.gameObject.CompareTag("GravityDown") && _gravity != Gravity.Down)
         {
-            _rb.gravityScale *= -1;
-            _jumpForce *= -1;
-            Flip();
-            Rotation();
+            if (_gravity == Gravity.Up || _gravity == Gravity.Left)
+            {
+                Flip();
+            }
+            ChangeGravity(Gravity.Down);
+            _isOnSides = false;
+            
+        }
+        
+        if (other.gameObject.CompareTag("GravityRight") && _gravity != Gravity.Right)
+        {
+            if (_gravity == Gravity.Up || _gravity == Gravity.Left)
+            {
+                Flip();
+            }
+            ChangeGravity(Gravity.Right);
+            _isOnSides = true;
+            
+        }
+        
+        if (other.gameObject.CompareTag("GravityLeft") && _gravity != Gravity.Left)
+        {
+            if (_gravity == Gravity.Down || _gravity == Gravity.Right)
+            {
+                Flip();
+            }
+            ChangeGravity(Gravity.Left);
+            _isOnSides = true;
+            
         }
     }
 
@@ -111,19 +150,43 @@ public class PlayerController : MonoBehaviour
         sideFacing *= -1;
     }
 
-    private void Rotation()
+    enum Gravity
     {
-        if (!_top)
-        {
-            transform.eulerAngles = new Vector3(0, 0, 180f);
-        }
-        else
-        {
-            transform.eulerAngles = Vector3.zero;
-        }
+        Up,
+        Down,
+        Left,
+        Right
+    }
 
-        _top = !_top;
-
+    private void ChangeGravity(Gravity dir)
+    {
+        switch (dir)
+        {
+            case Gravity.Up:
+                _gravity = Gravity.Up;
+                Physics2D.gravity = new Vector2(0f, -_gameGravity);
+                transform.eulerAngles = new Vector3(0, 0, 180f);
+                _jumpDirection = Vector2.down;
+                break;
+            case Gravity.Down:
+                _gravity = Gravity.Down;
+                Physics2D.gravity = new Vector2(0f, _gameGravity);
+                transform.eulerAngles = Vector3.zero;
+                _jumpDirection = Vector2.up;
+                break;
+            case Gravity.Left:
+                _gravity = Gravity.Left;
+                Physics2D.gravity = new Vector2(_gameGravity, 0f);
+                transform.eulerAngles = new Vector3(0, 0, -90f);
+                _jumpDirection = Vector2.right;
+                break;
+            case Gravity.Right:
+                _gravity = Gravity.Right;
+                Physics2D.gravity = new Vector2(-_gameGravity, 0f);
+                transform.eulerAngles = new Vector3(0, 0, 90f);
+                _jumpDirection = Vector2.left;
+                break;
+        }
     }
     
     
