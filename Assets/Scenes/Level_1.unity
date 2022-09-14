@@ -2407,26 +2407,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1871716704}
     m_Modifications:
-    - target: {fileID: 1363535134750228899, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2601012973764320994, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.236288
-      objectReference: {fileID: 0}
-    - target: {fileID: 2601012973764320994, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.236288
-      objectReference: {fileID: 0}
-    - target: {fileID: 2601012973764320994, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.236288
-      objectReference: {fileID: 0}
-    - target: {fileID: 3709412908496420972, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4238910726012310341, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
       propertyPath: m_Name
       value: Player
