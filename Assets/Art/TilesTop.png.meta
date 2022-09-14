@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a084ad0cd7086e343a1cc70263f2b887
+=======
+guid: 1db98394576f7f1439952af9846fb598
+>>>>>>> Tiles3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
