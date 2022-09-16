@@ -1,0 +1,3037 @@
+fileFormatVersion: 2
+guid: 188743b3255f2d04db80d9adb133626c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8006108781603184052
+    second: Sprite Pallet Test_0
+  - first:
+      213: -3386162758730424747
+    second: Sprite Pallet Test_1
+  - first:
+      213: -3031856044660401751
+    second: Sprite Pallet Test_2
+  - first:
+      213: -1236591829940530038
+    second: Sprite Pallet Test_3
+  - first:
+      213: -1371395633603556646
+    second: Sprite Pallet Test_4
+  - first:
+      213: -5352450253627877063
+    second: Sprite Pallet Test_5
+  - first:
+      213: 4452531146361138703
+    second: Sprite Pallet Test_6
+  - first:
+      213: -1096405209612178030
+    second: Sprite Pallet Test_7
+  - first:
+      213: -8790607069505358245
+    second: Sprite Pallet Test_8
+  - first:
+      213: -9143232547908302674
+    second: Sprite Pallet Test_9
+  - first:
+      213: 2282649887728403247
+    second: Sprite Pallet Test_10
+  - first:
+      213: -4506718865946070876
+    second: Sprite Pallet Test_11
+  - first:
+      213: 7368016469266974252
+    second: Sprite Pallet Test_12
+  - first:
+      213: 1248317420506168019
+    second: Sprite Pallet Test_13
+  - first:
+      213: -7776868744616292357
+    second: Sprite Pallet Test_14
+  - first:
+      213: 6821028261281028682
+    second: Sprite Pallet Test_15
+  - first:
+      213: 5872061750507346518
+    second: Sprite Pallet Test_16
+  - first:
+      213: 7707090589036591435
+    second: Sprite Pallet Test_17
+  - first:
+      213: -5793081029504204671
+    second: Sprite Pallet Test_18
+  - first:
+      213: -1530381315838703558
+    second: Sprite Pallet Test_19
+  - first:
+      213: -4081843643692257599
+    second: Sprite Pallet Test_20
+  - first:
+      213: -5160866477789240198
+    second: Sprite Pallet Test_21
+  - first:
+      213: 7849133604116875978
+    second: Sprite Pallet Test_22
+  - first:
+      213: -4370158271698746961
+    second: Sprite Pallet Test_23
+  - first:
+      213: 1588750957701366073
+    second: Sprite Pallet Test_24
+  - first:
+      213: -4640992849766640123
+    second: Sprite Pallet Test_25
+  - first:
+      213: -3250051420509584777
+    second: Sprite Pallet Test_26
+  - first:
+      213: 1847558497956847801
+    second: Sprite Pallet Test_27
+  - first:
+      213: -154308628470514191
+    second: Sprite Pallet Test_28
+  - first:
+      213: -6171916802171184614
+    second: Sprite Pallet Test_29
+  - first:
+      213: -1524449853302087228
+    second: Sprite Pallet Test_30
+  - first:
+      213: 3559590922117521631
+    second: Sprite Pallet Test_31
+  - first:
+      213: 7812833025880974684
+    second: Sprite Pallet Test_32
+  - first:
+      213: 2550208570569852098
+    second: Sprite Pallet Test_33
+  - first:
+      213: 7450203849370248005
+    second: Sprite Pallet Test_34
+  - first:
+      213: 1325610914586524700
+    second: Sprite Pallet Test_35
+  - first:
+      213: 3276958158978587336
+    second: Sprite Pallet Test_36
+  - first:
+      213: 6489309688871393041
+    second: Sprite Pallet Test_37
+  - first:
+      213: 1945506823986382000
+    second: Sprite Pallet Test_38
+  - first:
+      213: 710203839076950591
+    second: Sprite Pallet Test_39
+  - first:
+      213: 2666896614494330010
+    second: Sprite Pallet Test_40
+  - first:
+      213: 1267811296364841366
+    second: Sprite Pallet Test_41
+  - first:
+      213: 4701426453878214607
+    second: Sprite Pallet Test_42
+  - first:
+      213: 2676010603350154835
+    second: Sprite Pallet Test_43
+  - first:
+      213: 2920111019703267949
+    second: Sprite Pallet Test_44
+  - first:
+      213: -499795929216347318
+    second: Sprite Pallet Test_45
+  - first:
+      213: -4943150676705374529
+    second: Sprite Pallet Test_46
+  - first:
+      213: -6524165710541026915
+    second: Sprite Pallet Test_47
+  - first:
+      213: 7083605418330497265
+    second: Sprite Pallet Test_48
+  - first:
+      213: 3575684759330505143
+    second: Sprite Pallet Test_49
+  - first:
+      213: 2420227639017161698
+    second: Sprite Pallet Test_50
+  - first:
+      213: 5553567177744825381
+    second: Sprite Pallet Test_51
+  - first:
+      213: -4101584881891869206
+    second: Sprite Pallet Test_52
+  - first:
+      213: 6374124377632230012
+    second: Sprite Pallet Test_53
+  - first:
+      213: -5357736032658922824
+    second: Sprite Pallet Test_54
+  - first:
+      213: 8150758572237599119
+    second: Sprite Pallet Test_55
+  - first:
+      213: -4374701975699912553
+    second: Sprite Pallet Test_56
+  - first:
+      213: -5160622318078517427
+    second: Sprite Pallet Test_57
+  - first:
+      213: 8110594429001291383
+    second: Sprite Pallet Test_58
+  - first:
+      213: -4715944036545149356
+    second: Sprite Pallet Test_59
+  - first:
+      213: 8136279136641807752
+    second: Sprite Pallet Test_60
+  - first:
+      213: -7996895100351460905
+    second: Sprite Pallet Test_61
+  - first:
+      213: 2840465214390142968
+    second: Sprite Pallet Test_62
+  - first:
+      213: 8423153859473700679
+    second: Sprite Pallet Test_63
+  - first:
+      213: 6364221964218785397
+    second: Sprite Pallet Test_64
+  - first:
+      213: 8902391982032995543
+    second: Sprite Pallet Test_65
+  - first:
+      213: -4343000587227275163
+    second: Sprite Pallet Test_66
+  - first:
+      213: 5599673489841577232
+    second: Sprite Pallet Test_67
+  - first:
+      213: -7953492122434525444
+    second: Sprite Pallet Test_68
+  - first:
+      213: -6560294404482908135
+    second: Sprite Pallet Test_69
+  - first:
+      213: 4224414352463725806
+    second: Sprite Pallet Test_70
+  - first:
+      213: 9056178295154709578
+    second: Sprite Pallet Test_71
+  - first:
+      213: -629010621520704971
+    second: Sprite Pallet Test_72
+  - first:
+      213: 6104759170702354961
+    second: Sprite Pallet Test_73
+  - first:
+      213: -5339352359500884737
+    second: Sprite Pallet Test_74
+  - first:
+      213: -740794101388586123
+    second: Sprite Pallet Test_75
+  - first:
+      213: 6054657566547381568
+    second: Sprite Pallet Test_76
+  - first:
+      213: 1181541964006822186
+    second: Sprite Pallet Test_77
+  - first:
+      213: -5750759225734884950
+    second: Sprite Pallet Test_78
+  - first:
+      213: 6169725792821571356
+    second: Sprite Pallet Test_79
+  - first:
+      213: 8796792024580614413
+    second: Sprite Pallet Test_80
+  - first:
+      213: -5124271197870472598
+    second: Sprite Pallet Test_81
+  - first:
+      213: 6605139403832323767
+    second: Sprite Pallet Test_82
+  - first:
+      213: 1789243526646593680
+    second: Sprite Pallet Test_83
+  - first:
+      213: -7522373764751268951
+    second: Sprite Pallet Test_84
+  - first:
+      213: 2139511220582053748
+    second: Sprite Pallet Test_85
+  - first:
+      213: -975055828139178187
+    second: Sprite Pallet Test_86
+  - first:
+      213: 3161253406611596423
+    second: Sprite Pallet Test_87
+  - first:
+      213: 173984222058321873
+    second: Sprite Pallet Test_88
+  - first:
+      213: 6356748417165044109
+    second: Sprite Pallet Test_89
+  - first:
+      213: -6420036006295824389
+    second: Sprite Pallet Test_90
+  - first:
+      213: -508261667206257288
+    second: Sprite Pallet Test_91
+  - first:
+      213: 6083108926682193108
+    second: Sprite Pallet Test_92
+  - first:
+      213: 3201933692057780313
+    second: Sprite Pallet Test_93
+  - first:
+      213: 851090726687937162
+    second: Sprite Pallet Test_94
+  - first:
+      213: 8454842549876278822
+    second: Sprite Pallet Test_95
+  - first:
+      213: 615745411092879535
+    second: Sprite Pallet Test_96
+  - first:
+      213: -1006771914843322855
+    second: Sprite Pallet Test_97
+  - first:
+      213: 7312994766693951
+    second: Sprite Pallet Test_98
+  - first:
+      213: 3620567619693228647
+    second: Sprite Pallet Test_99
+  - first:
+      213: -3651921882094864019
+    second: Sprite Pallet Test_100
+  - first:
+      213: 807760861127309929
+    second: Sprite Pallet Test_101
+  - first:
+      213: 4804562186922343894
+    second: Sprite Pallet Test_102
+  - first:
+      213: 5422413485954478525
+    second: Sprite Pallet Test_103
+  - first:
+      213: 7971578867861675447
+    second: Sprite Pallet Test_104
+  - first:
+      213: 7394059056720978277
+    second: Sprite Pallet Test_105
+  - first:
+      213: 1468596378898177695
+    second: Sprite Pallet Test_106
+  - first:
+      213: -522459624627929157
+    second: Sprite Pallet Test_107
+  - first:
+      213: 554796006089281432
+    second: Sprite Pallet Test_108
+  - first:
+      213: -1122249753714693564
+    second: Sprite Pallet Test_109
+  - first:
+      213: -2436694990606147371
+    second: Sprite Pallet Test_110
+  - first:
+      213: -496573216425395761
+    second: Sprite Pallet Test_111
+  - first:
+      213: -4882828953536326520
+    second: Sprite Pallet Test_112
+  - first:
+      213: 2951835609823602061
+    second: Sprite Pallet Test_113
+  - first:
+      213: -1841942888982231677
+    second: Sprite Pallet Test_114
+  - first:
+      213: -3149037719879710487
+    second: Sprite Pallet Test_115
+  - first:
+      213: 8407910232534133892
+    second: Sprite Pallet Test_116
+  - first:
+      213: 2560350177600034785
+    second: Sprite Pallet Test_117
+  - first:
+      213: 3808445203816258925
+    second: Sprite Pallet Test_118
+  - first:
+      213: -5190810763855670842
+    second: Sprite Pallet Test_119
+  - first:
+      213: 4521553984307312307
+    second: Sprite Pallet Test_120
+  - first:
+      213: 5284995557766532101
+    second: Sprite Pallet Test_121
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Pallet Test_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4228673b7694e090800000000000000
+      internalID: -8006108781603184052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e573e59eee101d0800000000000000
+      internalID: -3386162758730424747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a955e7adfeace5d0800000000000000
+      internalID: -3031856044660401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849e3c484eb6dee0800000000000000
+      internalID: -1236591829940530038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac98cefe2d7fce0800000000000000
+      internalID: -1371395633603556646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399f825ad648b5b0800000000000000
+      internalID: -5352450253627877063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee732bc719acd30800000000000000
+      internalID: 4452531146361138703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dad275549c8c0f0800000000000000
+      internalID: -1096405209612178030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1098
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567816e17d710680800000000000000
+      internalID: -8790607069505358245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c22bc076bc1180800000000000000
+      internalID: -9143232547908302674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2303a89af99daf10800000000000000
+      internalID: 2282649887728403247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0bbbca11be471c0800000000000000
+      internalID: -4506718865946070876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c2edf0f3704660800000000000000
+      internalID: 7368016469266974252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab330841ae25110800000000000000
+      internalID: 1248317420506168019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffce449413031490800000000000000
+      internalID: -7776868744616292357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5e84701929ae50800000000000000
+      internalID: 6821028261281028682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1622fc01cd7150800000000000000
+      internalID: 5872061750507346518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 978
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49384b8e0615fa60800000000000000
+      internalID: 7707090589036591435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18009592f77da9fa0800000000000000
+      internalID: -5793081029504204671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380a823d4ef2cae0800000000000000
+      internalID: -1530381315838703558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce690525d06a57c0800000000000000
+      internalID: -4081843643692257599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a62a284be068b0800000000000000
+      internalID: -5160866477789240198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac7fb2d69bdec60800000000000000
+      internalID: 7849133604116875978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1492bb4341a53c0800000000000000
+      internalID: -4370158271698746961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310a5614906c0610800000000000000
+      internalID: 1588750957701366073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_25
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50618889791e79fb0800000000000000
+      internalID: -4640992849766640123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 858
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c5cad37f75e2d0800000000000000
+      internalID: -3250051420509584777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e8744aa8d3a910800000000000000
+      internalID: 1847558497956847801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdbc36be19cbddf0800000000000000
+      internalID: -154308628470514191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a525f5e52f85aa0800000000000000
+      internalID: -6171916802171184614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c168007fe018dae0800000000000000
+      internalID: -1524449853302087228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0258a8515366130800000000000000
+      internalID: 3559590922117521631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55631d2e32cc6c60800000000000000
+      internalID: 7812833025880974684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c409ffee29246320800000000000000
+      internalID: 2550208570569852098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54326f99de0746760800000000000000
+      internalID: 7450203849370248005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7f4a7a14856210800000000000000
+      internalID: 1325610914586524700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9cb165181a7d20800000000000000
+      internalID: 3276958158978587336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1171eaab7c8ae0a50800000000000000
+      internalID: 6489309688871393041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_38
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48ecf0624dffa10800000000000000
+      internalID: 1945506823986382000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ec4af0a62bd900800000000000000
+      internalID: 710203839076950591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_40
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c50af4758b20520800000000000000
+      internalID: 2666896614494330010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_41
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699cd0a28ab289110800000000000000
+      internalID: 1267811296364841366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 738
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf09095372de3140800000000000000
+      internalID: 4701426453878214607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5dd33779132520800000000000000
+      internalID: 2676010603350154835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62fd124081568820800000000000000
+      internalID: 2920111019703267949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439fda104e5019f0800000000000000
+      internalID: -499795929216347318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8eb346a6666bb0800000000000000
+      internalID: -4943150676705374529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990b6f4ad18575a0800000000000000
+      internalID: -6524165710541026915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02f90f8950e4260800000000000000
+      internalID: 7083605418330497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b14ca408526f9130800000000000000
+      internalID: 3575684759330505143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_50
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3433bf630669120800000000000000
+      internalID: 2420227639017161698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cbfb19ceb321d40800000000000000
+      internalID: 5553567177744825381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf8b2f74e3417c0800000000000000
+      internalID: -4101584881891869206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_53
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4de29950757850800000000000000
+      internalID: 6374124377632230012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_54
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ed0df67f75a5b0800000000000000
+      internalID: -5357736032658922824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_55
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813134acbf4d1170800000000000000
+      internalID: 8150758572237599119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_56
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79805343bbfe943c0800000000000000
+      internalID: -4374701975699912553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 618
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1af60859c168b0800000000000000
+      internalID: -5160622318078517427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77652e159ae9e8070800000000000000
+      internalID: 8110594429001291383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ca1982e99d8eb0800000000000000
+      internalID: -4715944036545149356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f4f454ced9e070800000000000000
+      internalID: 8136279136641807752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94d7d8642550190800000000000000
+      internalID: -7996895100351460905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f70494201c5b6720800000000000000
+      internalID: 2840465214390142968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f362becd05e470800000000000000
+      internalID: 8423153859473700679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57edff84822425850800000000000000
+      internalID: 6364221964218785397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_65
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4cc5c3756ab8b70800000000000000
+      internalID: 8902391982032995543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_66
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606103e9ff8ab3c0800000000000000
+      internalID: -4343000587227275163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_67
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddd24ee5906bd40800000000000000
+      internalID: 5599673489841577232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62c66dd058f9190800000000000000
+      internalID: -7953492122434525444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_69
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91040de3ff625f4a0800000000000000
+      internalID: -6560294404482908135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee489aeb87220aa30800000000000000
+      internalID: 4224414352463725806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_71
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449c418d220ead70800000000000000
+      internalID: 9056178295154709578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_72
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8f402c2e4547f0800000000000000
+      internalID: -629010621520704971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_73
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 498
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa5011f1678b450800000000000000
+      internalID: 6104759170702354961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff45e41715fc6e5b0800000000000000
+      internalID: -5339352359500884737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573570f80bb28b5f0800000000000000
+      internalID: -740794101388586123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d00b25af6760450800000000000000
+      internalID: 6054657566547381568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2118dbf72ea56010800000000000000
+      internalID: 1181541964006822186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa19549f3f23130b0800000000000000
+      internalID: -5750759225734884950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe1b28be44f9550800000000000000
+      internalID: 6169725792821571356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ed1c2dbb741a70800000000000000
+      internalID: 8796792024580614413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_81
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624a2ebe7ee2e8b0800000000000000
+      internalID: -5124271197870472598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6c51da4b2aab50800000000000000
+      internalID: 6605139403832323767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_83
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ff66f18ba4d810800000000000000
+      internalID: 1789243526646593680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_84
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3684c8ae82b9790800000000000000
+      internalID: -7522373764751268951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_85
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47771c79e1211bd10800000000000000
+      internalID: 2139511220582053748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537079fe3e7e772f0800000000000000
+      internalID: -975055828139178187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_87
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e31a69370fdb20800000000000000
+      internalID: 3161253406611596423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_88
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d71f486abd1a6200800000000000000
+      internalID: 173984222058321873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_89
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 378
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8926a38105b73850800000000000000
+      internalID: 6356748417165044109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7158f544377e6a0800000000000000
+      internalID: -6420036006295824389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752931e4ba42f8f0800000000000000
+      internalID: -508261667206257288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc56e0d65b8b6450800000000000000
+      internalID: 6083108926682193108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95085757abd8f6c20800000000000000
+      internalID: 3201933692057780313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821dd3b18eafcb00800000000000000
+      internalID: 851090726687937162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cb31e082a55570800000000000000
+      internalID: 8454842549876278822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_96
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8944460319b8800800000000000000
+      internalID: 615745411092879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9168ced074a3702f0800000000000000
+      internalID: -1006771914843322855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_98
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362057412bf91000800000000000000
+      internalID: 7312994766693951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_99
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 258
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b8194117de3230800000000000000
+      internalID: 3620567619693228647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69724e9564c15dc0800000000000000
+      internalID: -3651921882094864019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af4f6393eb53b00800000000000000
+      internalID: 807760861127309929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb7c47adb3da240800000000000000
+      internalID: 4804562186922343894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ba971658404b40800000000000000
+      internalID: 5422413485954478525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd7edbebcb0ae60800000000000000
+      internalID: 7971578867861675447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612d146989fc9660800000000000000
+      internalID: 7394059056720978277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_106
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e96aa20a0816410800000000000000
+      internalID: 1468596378898177695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_107
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf71905db9dfb8f0800000000000000
+      internalID: -522459624627929157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc1c1370803b700800000000000000
+      internalID: 554796006089281432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_109
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ae0908bc7fc60f0800000000000000
+      internalID: -1122249753714693564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_110
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 138
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d062f2f0de1f2ed0800000000000000
+      internalID: -2436694990606147371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9bdf56a41db19f0800000000000000
+      internalID: -496573216425395761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8849975efe4bc3cb0800000000000000
+      internalID: -4882828953536326520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8562eef8d607f820800000000000000
+      internalID: 2951835609823602061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38548a593ba1076e0800000000000000
+      internalID: -1841942888982231677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8834ac0ee5c44d0800000000000000
+      internalID: -3149037719879710487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca1993fc5eea470800000000000000
+      internalID: 8407910232534133892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75574dbe0388320800000000000000
+      internalID: 2560350177600034785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_118
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d12002cb05ad430800000000000000
+      internalID: 3808445203816258925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_119
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1db14cc1986f7b0800000000000000
+      internalID: -5190810763855670842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_120
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b36b7469cfbe30800000000000000
+      internalID: 4521553984307312307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Pallet Test_121
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 18
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c013c6573185940800000000000000
+      internalID: 5284995557766532101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
