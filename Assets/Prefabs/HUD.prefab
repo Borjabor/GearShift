@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3223b3851a2287f45bf16c7e879fe33f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _fontCollectible: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
+  _fontCollectible: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   TargetCount: {fileID: 5413460393466008249}
 --- !u!1 &5413460392520597544
 GameObject:
@@ -242,6 +242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _pauseMenu: {fileID: 5413460392520597544}
+  _askInput: {fileID: 5413460394116451991}
 --- !u!1 &5413460393466008248
 GameObject:
   m_ObjectHideFlags: 0
