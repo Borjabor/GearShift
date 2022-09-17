@@ -14,6 +14,7 @@ public class LockKey : MonoBehaviour
 
     private void Start()
     {
+        CollectedKeys = 0;
         SetCountText();
     }
 
