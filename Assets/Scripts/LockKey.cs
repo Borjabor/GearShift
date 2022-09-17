@@ -6,7 +6,7 @@ using TMPro;
 public class LockKey : MonoBehaviour
 {
     public static int CollectedKeys = 0;
-    public static int _totalKeys = 4;
+    public static int TotalKeys = 4;
 
     [SerializeField] TMP_FontAsset _fontCollectible;
     
@@ -25,6 +25,6 @@ public class LockKey : MonoBehaviour
     void SetCountText()
     {
         TargetCount.font = _fontCollectible;
-        TargetCount.text = "Keys: " + CollectedKeys.ToString() + " / " + _totalKeys;
+        TargetCount.text = "Keys: " + CollectedKeys.ToString() + " / " + TotalKeys;
     }
 }

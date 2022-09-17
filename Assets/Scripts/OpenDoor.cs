@@ -11,7 +11,7 @@ public class OpenDoor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (LockKey.CollectedKeys == LockKey._totalKeys)
+        if (LockKey.CollectedKeys == LockKey.TotalKeys)
         {
             Destroy(gameObject);
         }
