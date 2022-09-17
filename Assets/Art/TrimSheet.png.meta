@@ -919,7 +919,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -927,6 +927,27 @@ TextureImporter:
       bones: []
       spriteID: 826bba64ea8ec2270800000000000000
       internalID: 8227206454506665512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrimSheet_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 113
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60850265a144b2890800000000000000
+      internalID: -7481811476041148410
       vertices: []
       indices: 
       edges: []
