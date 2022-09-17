@@ -189,7 +189,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4767942852454182887}
-  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0.00024636087}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0.00024436583}
   m_LocalPosition: {x: 32.758, y: 15.065, z: 0}
   m_LocalScale: {x: 1.1, y: 1.1, z: 1}
   m_Children:
@@ -270,7 +270,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4767942852564454096}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.33, y: 0.481, z: 0}
+  m_LocalPosition: {x: -2.278, y: 0.481, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4767942852454182886}
@@ -680,7 +680,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4767942853433538481}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.0799999, y: 0.48099995, z: 0}
+  m_LocalPosition: {x: -1.08, y: 0.475, z: 0.033}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4767942852454182886}
@@ -744,6 +744,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4767942852454182886}
     m_Modifications:
+    - target: {fileID: 586990616596606596, guid: 64b8b5d9d37521045b36a7acc29d7bd7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 586990616596606597, guid: 64b8b5d9d37521045b36a7acc29d7bd7, type: 3}
       propertyPath: m_Name
       value: Door
@@ -770,11 +774,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 586990616596606599, guid: 64b8b5d9d37521045b36a7acc29d7bd7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.059
+      value: 3.26
       objectReference: {fileID: 0}
     - target: {fileID: 586990616596606599, guid: 64b8b5d9d37521045b36a7acc29d7bd7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.428
+      value: 0.43
       objectReference: {fileID: 0}
     - target: {fileID: 586990616596606599, guid: 64b8b5d9d37521045b36a7acc29d7bd7, type: 3}
       propertyPath: m_LocalPosition.z
