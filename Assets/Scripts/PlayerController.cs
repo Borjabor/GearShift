@@ -39,6 +39,20 @@ public class PlayerController : MonoBehaviour
     private GameObject[] _keyPieces;
 
     private int _pieceIndex = 0;
+    private AudioSource _audioSource;
+    
+    [Header("Audio")] 
+    [SerializeField] 
+    private AudioClip _jumpAudio;
+    [SerializeField] 
+    private AudioClip _deathAudio;
+    [SerializeField] 
+    private AudioClip _gravityChangeAudio;
+    [SerializeField] 
+    private AudioClip _keyPickupAudio;
+    [SerializeField] 
+    private AudioClip _goalReachableAudio;
+    
     
 
 
@@ -50,6 +64,7 @@ public class PlayerController : MonoBehaviour
         _moveSpeed = 300f;
         _isStuck = false;
         _sadFace.SetActive(false);
+        _audioSource = GetComponent<AudioSource>();
         for (int i = 0; i < 4; i++)
         {
             _keyPieces[i].SetActive(false);
@@ -86,6 +101,7 @@ public class PlayerController : MonoBehaviour
         if (_jumpBufferCounter > 0f && _coyoteTimeCounter > 0f && !_isStuck)
         {
             _rb.velocity = _jumpDirection * _jumpForce;
+            _audioSource.PlayOneShot(_jumpAudio);
             _jumpBufferCounter = 0f;
         }
 
@@ -108,6 +124,14 @@ public class PlayerController : MonoBehaviour
         {
             Flip();
             _moveSpeed *= -1;
+        }
+        
+        if(_rb.velocity != Vector2.zero && _isGrounded)
+        {
+            if (!_audioSource.isPlaying)
+            {
+                _audioSource.Play();
+            }
         }
 
         
@@ -142,6 +166,7 @@ public class PlayerController : MonoBehaviour
             }
             ChangeGravity(Gravity.Up);
             _isOnSides = false;
+            _audioSource.PlayOneShot(_gravityChangeAudio);
             
         }
         
@@ -153,6 +178,7 @@ public class PlayerController : MonoBehaviour
             }
             ChangeGravity(Gravity.Down);
             _isOnSides = false;
+            _audioSource.PlayOneShot(_gravityChangeAudio);
             
         }
         
@@ -164,6 +190,7 @@ public class PlayerController : MonoBehaviour
             }
             ChangeGravity(Gravity.Right);
             _isOnSides = true;
+            _audioSource.PlayOneShot(_gravityChangeAudio);
             
         }
         
@@ -175,6 +202,7 @@ public class PlayerController : MonoBehaviour
             }
             ChangeGravity(Gravity.Left);
             _isOnSides = true;
+            _audioSource.PlayOneShot(_gravityChangeAudio);
             
         }
 
@@ -186,8 +214,14 @@ public class PlayerController : MonoBehaviour
             LockKey.CollectedKeys++;
             if (_pieceIndex >= 4)
             {
+                _audioSource.PlayOneShot(_goalReachableAudio);
                 _pieceIndex = 0;
             }
+            else
+            {
+                _audioSource.PlayOneShot(_keyPickupAudio);
+            }
+            
         }
         
         if (other.gameObject.CompareTag("Death"))
@@ -248,6 +282,7 @@ public class PlayerController : MonoBehaviour
 
     private IEnumerator Respawn()
     {
+        _audioSource.PlayOneShot(_deathAudio);
         yield return new WaitForSeconds(0.3f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
