@@ -31,14 +31,30 @@ public class PlayerController : MonoBehaviour
     private float _jumpBufferTime = 0.2f;
     private float _jumpBufferCounter;
     private Gravity _gravity = Gravity.Down;
+    
+    [SerializeField]
+    private GameObject _sadFace;
+
+    [SerializeField] 
+    private GameObject[] _keyPieces;
+
+    private int _pieceIndex = 0;
+    
 
 
-    void Start () {
+    void Start ()
+    {
         var collider = gameObject.GetComponent<Collider2D>() as CircleCollider2D;
         _rb = GetComponent<Rigidbody2D>();
         _characterRadius = collider.radius;
         _moveSpeed = 300f;
         _isStuck = false;
+        _sadFace.SetActive(false);
+        for (int i = 0; i < 4; i++)
+        {
+            _keyPieces[i].SetActive(false);
+        }
+        
     }
 	
     void Update () {
@@ -67,7 +83,7 @@ public class PlayerController : MonoBehaviour
             _jumpBufferCounter -= Time.deltaTime;
         }
         
-        if (_jumpBufferCounter > 0f && _coyoteTimeCounter > 0f)
+        if (_jumpBufferCounter > 0f && _coyoteTimeCounter > 0f && !_isStuck)
         {
             _rb.velocity = _jumpDirection * _jumpForce;
             _jumpBufferCounter = 0f;
@@ -165,12 +181,24 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.CompareTag(("Key")))
         {
             Destroy(other.gameObject);
+            _keyPieces[_pieceIndex].SetActive(true);
+            _pieceIndex++;
             LockKey.CollectedKeys++;
+            if (_pieceIndex >= 4)
+            {
+                _pieceIndex = 0;
+            }
         }
         
         if (other.gameObject.CompareTag("Death"))
         {
             _isStuck = true;
+            _sadFace.SetActive(true);
+        }
+        
+        if (other.gameObject.CompareTag("EndPipe") && LockKey.CollectedKeys == LockKey.TotalKeys)
+        {
+            _moveSpeed = 0f;
         }
     }
 

@@ -11,6 +11,7 @@ TagManager:
   - GravityRight
   - Key
   - Death
+  - EndPipe
   layers:
   - Default
   - TransparentFX
