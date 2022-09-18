@@ -432,12 +432,11 @@ MonoBehaviour:
   - {fileID: 6384124995373096672}
   - {fileID: 3398937837631449516}
   - {fileID: 9218704695125563299}
-  _walk: {fileID: 0}
-  _jump: {fileID: 0}
-  _death: {fileID: 0}
-  _gravityChange: {fileID: 0}
-  _keyPickup: {fileID: 0}
-  _goalReachable: {fileID: 0}
+  _jumpAudio: {fileID: 0}
+  _deathAudio: {fileID: 0}
+  _gravityChangeAudio: {fileID: 0}
+  _keyPickupAudio: {fileID: 0}
+  _goalReachableAudio: {fileID: 0}
 --- !u!82 &7234856875025165510
 AudioSource:
   m_ObjectHideFlags: 0
@@ -450,9 +449,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.229
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
