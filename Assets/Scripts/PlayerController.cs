@@ -226,6 +226,7 @@ public class PlayerController : MonoBehaviour
         
         if (other.gameObject.CompareTag("Death"))
         {
+            _audioSource.PlayOneShot(_deathAudio);
             _isStuck = true;
             _sadFace.SetActive(true);
         }
@@ -282,7 +283,6 @@ public class PlayerController : MonoBehaviour
 
     private IEnumerator Respawn()
     {
-        _audioSource.PlayOneShot(_deathAudio);
         yield return new WaitForSeconds(0.3f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
