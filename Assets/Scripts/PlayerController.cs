@@ -52,6 +52,8 @@ public class PlayerController : MonoBehaviour
     private AudioClip _keyPickupAudio;
     [SerializeField] 
     private AudioClip _goalReachableAudio;
+    [SerializeField]
+    private AudioClip _flipAudio;
     
     
 
@@ -238,6 +240,7 @@ public class PlayerController : MonoBehaviour
     }
 
     private void Flip(){
+        _audioSource.PlayOneShot(_flipAudio);
         transform.localScale = new Vector2(-transform.localScale.x, transform.localScale.y);
         sideFacing *= -1;
     }

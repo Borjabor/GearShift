@@ -4471,6 +4471,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1871716704}
     m_Modifications:
+    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
+      propertyPath: _flipAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 22d98b7cee4055a4e8767760d15323ca, type: 3}
+    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
+      propertyPath: _jumpAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: f01ffaabe9465e142912a3b536cd521a, type: 3}
+    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
+      propertyPath: _gravityChangeAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: b7eff9d862133c64d861395694d6779b, type: 3}
     - target: {fileID: 4238910726012310341, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
       propertyPath: m_Name
       value: Player
@@ -48504,7 +48516,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a2684f2a51fe75a45bfe5e2c86feef6b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f3c85535b75234b4599729ec27a73ed6, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.33
   m_Pitch: 1
