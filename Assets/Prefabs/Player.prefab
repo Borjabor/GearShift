@@ -437,6 +437,7 @@ MonoBehaviour:
   _gravityChangeAudio: {fileID: 8300000, guid: b7eff9d862133c64d861395694d6779b, type: 3}
   _keyPickupAudio: {fileID: 8300000, guid: f3da306543d305449a9955cf30aea8b7, type: 3}
   _goalReachableAudio: {fileID: 8300000, guid: 19b279d3bdc89f14896cc413316ff1c7, type: 3}
+  _flipAudio: {fileID: 8300000, guid: 22d98b7cee4055a4e8767760d15323ca, type: 3}
 --- !u!82 &7234856875025165510
 AudioSource:
   m_ObjectHideFlags: 0
