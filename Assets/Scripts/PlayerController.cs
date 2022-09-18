@@ -54,8 +54,10 @@ public class PlayerController : MonoBehaviour
     private AudioClip _goalReachableAudio;
     [SerializeField]
     private AudioClip _flipAudio;
-    
-    
+
+    [Header("particles")]
+    [SerializeField]
+    private ParticleSystem _collectKey;
 
 
     void Start ()
@@ -218,10 +220,12 @@ public class PlayerController : MonoBehaviour
             {
                 _audioSource.PlayOneShot(_goalReachableAudio);
                 _pieceIndex = 0;
+                _collectKey.Play();
             }
             else
             {
                 _audioSource.PlayOneShot(_keyPickupAudio);
+                _collectKey.Play();
             }
             
         }
