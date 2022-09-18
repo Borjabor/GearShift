@@ -3755,26 +3755,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1871716704}
     m_Modifications:
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _jumpAudio
-      value: 
-      objectReference: {fileID: 8300000, guid: 3c45b6c22d42c9042beeda0e7acb8053, type: 3}
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _deathAudio
-      value: 
-      objectReference: {fileID: 8300000, guid: ea442cafbb187984c97753217fb22cb8, type: 3}
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _keyPickupAudio
-      value: 
-      objectReference: {fileID: 8300000, guid: f3da306543d305449a9955cf30aea8b7, type: 3}
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _goalReachableAudio
-      value: 
-      objectReference: {fileID: 8300000, guid: 19b279d3bdc89f14896cc413316ff1c7, type: 3}
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _gravityChangeAudio
-      value: 
-      objectReference: {fileID: 8300000, guid: f48a1c6bf84002949b7f76da62de2015, type: 3}
     - target: {fileID: 4238910726012310341, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
       propertyPath: m_Name
       value: Player
@@ -3823,14 +3803,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7234856875025165510, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: Loop
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7234856875025165510, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: a7ed40d5b82891e468ee7e66005fe414, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
 --- !u!1 &1042072477
@@ -48979,7 +48951,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a2684f2a51fe75a45bfe5e2c86feef6b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 52bc540b244321e47994fbc956751de4, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
