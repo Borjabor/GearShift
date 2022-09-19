@@ -60,6 +60,8 @@ public class PlayerController : MonoBehaviour
     [Header("particles")]
     [SerializeField]
     private ParticleSystem _collectKey;
+    [SerializeField]
+    private ParticleSystem _collectAllKeys;
 
 
     void Start ()
@@ -223,6 +225,7 @@ public class PlayerController : MonoBehaviour
                 _audioSource.PlayOneShot(_goalReachableAudio);
                 _pieceIndex = 0;
                 _collectKey.Play();
+                _collectAllKeys.Play();
             }
             else
             {
