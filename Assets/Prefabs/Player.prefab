@@ -703,7 +703,7 @@ ParticleSystem:
   m_GameObject: {fileID: 6208610051675150049}
   serializedVersion: 7
   lengthInSec: 1
-  simulationSpeed: 0.65
+  simulationSpeed: 0.7
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
@@ -830,7 +830,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 2.45
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -1408,7 +1408,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 0.17
+      value: 0.0001
       mode: 0
       spread: 0
       speed:
@@ -1637,7 +1637,7 @@ ParticleSystem:
       countCurve:
         serializedVersion: 2
         minMaxState: 0
-        scalar: 100
+        scalar: 80
         minScalar: 30
         maxCurve:
           serializedVersion: 2
@@ -3343,7 +3343,7 @@ ParticleSystem:
     inWorldSpace: 0
     multiplyDragByParticleSize: 1
     multiplyDragByParticleVelocity: 1
-    dampen: 0.5
+    dampen: 0.1
     drag:
       serializedVersion: 2
       minMaxState: 0
