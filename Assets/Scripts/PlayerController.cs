@@ -19,8 +19,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rb;
 
     private bool _isGrounded;
-    [SerializeField] private Transform _groundCheck;
-    [SerializeField] private float _checkRadius;
+    [SerializeField] 
+    private Transform _groundCheck;
+    [SerializeField] 
+    private float _checkRadius;
     public LayerMask Ground;
     private int sideFacing = 1;
     private float _characterRadius;
@@ -54,8 +56,10 @@ public class PlayerController : MonoBehaviour
     private AudioClip _goalReachableAudio;
     [SerializeField]
     private AudioClip _flipAudio;
-    
-    
+
+    [Header("particles")]
+    [SerializeField]
+    private ParticleSystem _collectKey;
 
 
     void Start ()
@@ -218,10 +222,12 @@ public class PlayerController : MonoBehaviour
             {
                 _audioSource.PlayOneShot(_goalReachableAudio);
                 _pieceIndex = 0;
+                _collectKey.Play();
             }
             else
             {
                 _audioSource.PlayOneShot(_keyPickupAudio);
+                _collectKey.Play();
             }
             
         }
