@@ -4678,10 +4678,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1871716704}
     m_Modifications:
-    - target: {fileID: 4238910726012310337, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-      propertyPath: _collectAllKeys
-      value: 
-      objectReference: {fileID: 1435158841}
     - target: {fileID: 4238910726012310341, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
       propertyPath: m_Name
       value: Player
@@ -45597,11 +45593,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!198 &1435158841 stripped
-ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 6288984215458278249, guid: 2988157875df93c4e88b74fad3768b8f, type: 3}
-  m_PrefabInstance: {fileID: 1020147299}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1441531303
 GameObject:
   m_ObjectHideFlags: 3

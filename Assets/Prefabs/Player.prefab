@@ -5245,6 +5245,7 @@ MonoBehaviour:
   _goalReachableAudio: {fileID: 8300000, guid: 19b279d3bdc89f14896cc413316ff1c7, type: 3}
   _flipAudio: {fileID: 8300000, guid: 22d98b7cee4055a4e8767760d15323ca, type: 3}
   _collectKey: {fileID: 3180587337708293998}
+  _collectAllKeys: {fileID: 6288984215458278249}
 --- !u!82 &7234856875025165510
 AudioSource:
   m_ObjectHideFlags: 0
