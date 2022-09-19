@@ -63,6 +63,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private ParticleSystem _collectAllKeys;
 
+    [SerializeField]
+    private GameObject _1points;
+    [SerializeField]
+    private GameObject _2points;
+    [SerializeField]
+    private GameObject _3points;
+    [SerializeField]
+    private GameObject _4points;
+
 
     void Start ()
     {
@@ -226,13 +235,28 @@ public class PlayerController : MonoBehaviour
                 _pieceIndex = 0;
                 _collectKey.Play();
                 _collectAllKeys.Play();
+                _4points.SetActive(true);
+
             }
-            else
+            if (_pieceIndex == 3)
             {
                 _audioSource.PlayOneShot(_keyPickupAudio);
                 _collectKey.Play();
+                _3points.SetActive(true);
             }
-            
+            if (_pieceIndex == 2)
+            {
+                _audioSource.PlayOneShot(_keyPickupAudio);
+                _collectKey.Play();
+                _2points.SetActive(true);
+            }
+            if (_pieceIndex == 1)
+            {
+                _audioSource.PlayOneShot(_keyPickupAudio);
+                _collectKey.Play();
+                _1points.SetActive(true);
+            }
+
         }
         
         if (other.gameObject.CompareTag("Death"))
