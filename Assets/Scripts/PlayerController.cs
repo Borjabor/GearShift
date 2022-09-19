@@ -19,8 +19,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rb;
 
     private bool _isGrounded;
-    [SerializeField] private Transform _groundCheck;
-    [SerializeField] private float _checkRadius;
+    [SerializeField] 
+    private Transform _groundCheck;
+    [SerializeField] 
+    private float _checkRadius;
     public LayerMask Ground;
     private int sideFacing = 1;
     private float _characterRadius;
