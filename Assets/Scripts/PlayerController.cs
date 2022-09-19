@@ -63,6 +63,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private ParticleSystem _collectAllKeys;
 
+    [Header("UI")]
     [SerializeField]
     private GameObject _1points;
     [SerializeField]
