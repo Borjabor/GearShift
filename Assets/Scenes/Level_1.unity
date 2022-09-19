@@ -4864,6 +4864,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: HUD
       objectReference: {fileID: 0}
+    - target: {fileID: 5413460393466008247, guid: df651145217b6364ebb4bec8383c03d2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 57.69995
+      objectReference: {fileID: 0}
+    - target: {fileID: 5413460393466008247, guid: df651145217b6364ebb4bec8383c03d2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -35.599976
+      objectReference: {fileID: 0}
+    - target: {fileID: 5413460394116451991, guid: df651145217b6364ebb4bec8383c03d2, type: 3}
+      propertyPath: m_text
+      value: Press SPACE to PLAY
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df651145217b6364ebb4bec8383c03d2, type: 3}
 --- !u!224 &1053384834 stripped
