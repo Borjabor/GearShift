@@ -2436,6 +2436,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (2)
@@ -2445,12 +2449,20 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.406537
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0773804
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.615688
+      value: -9.5899
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -23.219196
+      value: -23.1804
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4621,6 +4633,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (6)
@@ -4631,15 +4647,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 3.2056727
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9892
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 21.384312
+      value: 21.452
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14.219196
+      value: -14.2138
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8969,6 +8989,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (3)
@@ -8979,11 +9003,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalScale.x
-      value: 5
+      value: 4.9165
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.3843117
+      value: 7.3425
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
@@ -49703,6 +49727,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (4)
@@ -49713,15 +49741,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.95787007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4129443
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.384312
+      value: 5.3632
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.7191968
+      value: -2.5854
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.z
@@ -50200,6 +50232,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (5)
@@ -50207,10 +50243,6 @@ PrefabInstance:
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_RootOrder
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
@@ -50250,10 +50282,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1744265075229155779, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
-      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -51839,6 +51867,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum (1)
@@ -51848,12 +51880,20 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.3749473
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2418902
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.615688
+      value: -18.6047
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -23.219196
+      value: -23.0983
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.z
@@ -54806,6 +54846,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 876843580}
     m_Modifications:
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_Size.y
+      value: 0.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 576573915396113958, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155776, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_Name
       value: Gum
@@ -54815,12 +54863,20 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.401071
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.93008614
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.115688
+      value: -14.1136
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -18.219196
+      value: -18.1842
       objectReference: {fileID: 0}
     - target: {fileID: 1744265075229155777, guid: cb78bf8b12780cc4fab0bd3ebdbfc712, type: 3}
       propertyPath: m_LocalPosition.z
