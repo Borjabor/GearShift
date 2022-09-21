@@ -62,6 +62,8 @@ public class PlayerController : MonoBehaviour
     private ParticleSystem _collectKey;
     [SerializeField]
     private ParticleSystem _collectAllKeys;
+    [SerializeField]
+    private ParticleSystem _bubbleGumExplosion;
 
     [Header("UI")]
     [SerializeField]
@@ -265,6 +267,7 @@ public class PlayerController : MonoBehaviour
             _audioSource.PlayOneShot(_deathAudio);
             _isStuck = true;
             _sadFace.SetActive(true);
+            _bubbleGumExplosion.Play();
         }
         
         if (other.gameObject.CompareTag("EndPipe") && LockKey.CollectedKeys == LockKey.TotalKeys)
