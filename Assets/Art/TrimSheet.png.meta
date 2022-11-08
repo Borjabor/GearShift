@@ -129,6 +129,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -183,6 +184,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -962,6 +975,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TrimSheet_21: -6113218937008874181
+      TrimSheet_12: -4662823351491114609
+      TrimSheet_8: -5071526152858756346
+      TrimSheet_15: -1434920216241502001
+      TrimSheet_24: -7960811068130286076
+      TrimSheet_18: 1085352337381912582
+      TrimSheet_3: -6129267348704589987
+      TrimSheet_10: 1084607097265455405
+      TrimSheet_17: -2239792692834105952
+      TrimSheet_27: 8227206454506665512
+      TrimSheet_26: 4865999611054376640
+      TrimSheet_23: -8908681126599254876
+      TrimSheet_9: 88719582392284076
+      TrimSheet_22: -5886166157888555415
+      TrimSheet_38: 918223867562411224
+      TrimSheet_0: 9116493669090168674
+      TrimSheet_7: 5170601274669696322
+      TrimSheet_28: -7481811476041148410
+      TrimSheet_35: -362901019568418053
+      TrimSheet_5: 2621463141491817318
+      TrimSheet_25: -3176964686703864810
+      TrimSheet_34: -8014106608586098456
+      TrimSheet_4: -3018964763286233756
+      TrimSheet_1: -1726272687342998463
+      TrimSheet_39: -8978165894823476363
+      TrimSheet_16: -3166097950200262712
+      TrimSheet_36: 2226581320987456505
+      TrimSheet_37: -4843341860355948925
+      TrimSheet_13: 4995777314369859442
+      TrimSheet_14: 4312405775977846919
+      TrimSheet_20: -3737715562851477772
+      TrimSheet_19: -5298715039683716582
+      TrimSheet_11: 1165052812058190765
+      TrimSheet_2: -8455525604127706568
+      TrimSheet_6: -5548031648345823529
+      TrimSheet_33: -3169802489336271993
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

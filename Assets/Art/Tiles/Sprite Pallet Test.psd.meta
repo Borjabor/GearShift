@@ -390,6 +390,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -444,6 +445,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1769,6 +1782,69 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Sprite Pallet Test_23: -4370158271698746961
+      Sprite Pallet Test_47: -6524165710541026915
+      Sprite Pallet Test_77: 1181541964006822186
+      Sprite Pallet Test_64: 6364221964218785397
+      Sprite Pallet Test_13: 1248317420506168019
+      Sprite Pallet Test_17: 7707090589036591435
+      Sprite Pallet Test_46: -4943150676705374529
+      Sprite Pallet Test_61: -7996895100351460905
+      Sprite Pallet Test_30: -1524449853302087228
+      Sprite Pallet Test_32: 7812833025880974684
+      Sprite Pallet Test_12: 7368016469266974252
+      Sprite Pallet Test_10: 2282649887728403247
+      Sprite Pallet Test_26: -3250051420509584777
+      Sprite Pallet Test_45: -499795929216347318
+      Sprite Pallet Test_72: -629010621520704971
+      Sprite Pallet Test_8: -8790607069505358245
+      Sprite Pallet Test_6: 4452531146361138703
+      Sprite Pallet Test_39: 710203839076950591
+      Sprite Pallet Test_51: 5553567177744825381
+      Sprite Pallet Test_33: 2550208570569852098
+      Sprite Pallet Test_2: -3031856044660401751
+      Sprite Pallet Test_73: 6104759170702354961
+      Sprite Pallet Test_36: 3276958158978587336
+      Sprite Pallet Test_11: -4506718865946070876
+      Sprite Pallet Test_28: -154308628470514191
+      Sprite Pallet Test_49: 3575684759330505143
+      Sprite Pallet Test_4: -1371395633603556646
+      Sprite Pallet Test_19: -1530381315838703558
+      Sprite Pallet Test_7: -1096405209612178030
+      Sprite Pallet Test_24: 1588750957701366073
+      Sprite Pallet Test_74: -5339352359500884737
+      Sprite Pallet Test_16: 5872061750507346518
+      Sprite Pallet Test_34: 7450203849370248005
+      Sprite Pallet Test_35: 1325610914586524700
+      Sprite Pallet Test_78: -5750759225734884950
+      Sprite Pallet Test_21: -5160866477789240198
+      Sprite Pallet Test_50: 2420227639017161698
+      Sprite Pallet Test_25: -4640992849766640123
+      Sprite Pallet Test_29: -6171916802171184614
+      Sprite Pallet Test_27: 1847558497956847801
+      Sprite Pallet Test_40: 2666896614494330010
+      Sprite Pallet Test_1: -3386162758730424747
+      Sprite Pallet Test_15: 6821028261281028682
+      Sprite Pallet Test_76: 6054657566547381568
+      Sprite Pallet Test_65: 8902391982032995543
+      Sprite Pallet Test_31: 3559590922117521631
+      Sprite Pallet Test_22: 7849133604116875978
+      Sprite Pallet Test_63: 8423153859473700679
+      Sprite Pallet Test_0: -8006108781603184052
+      Sprite Pallet Test_20: -4081843643692257599
+      Sprite Pallet Test_5: -5352450253627877063
+      Sprite Pallet Test_60: 8136279136641807752
+      Sprite Pallet Test_37: 6489309688871393041
+      Sprite Pallet Test_3: -1236591829940530038
+      Sprite Pallet Test_18: -5793081029504204671
+      Sprite Pallet Test_48: 7083605418330497265
+      Sprite Pallet Test_66: -4343000587227275163
+      Sprite Pallet Test_75: -740794101388586123
+      Sprite Pallet Test_9: -9143232547908302674
+      Sprite Pallet Test_38: 1945506823986382000
+      Sprite Pallet Test_14: -7776868744616292357
+      Sprite Pallet Test_62: 2840465214390142968
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1

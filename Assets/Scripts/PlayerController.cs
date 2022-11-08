@@ -118,6 +118,28 @@ public class PlayerController : MonoBehaviour
             _jumpBufferCounter -= Time.deltaTime;
         }
         
+        if (Input.GetButtonUp("Jump") && _rb.velocity.y != 0f)
+        {
+            _coyoteTimeCounter = 0f;
+        }
+
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            if (touch.phase == TouchPhase.Began)
+            {
+                _jumpBufferCounter = _jumpBufferTime;
+            }else
+            {
+                _jumpBufferCounter -= Time.deltaTime;
+            }
+        
+            if (touch.phase == TouchPhase.Began && _rb.velocity.y != 0f)
+            {
+                _coyoteTimeCounter = 0f;
+            }
+        }
+        
         if (_jumpBufferCounter > 0f && _coyoteTimeCounter > 0f && !_isStuck)
         {
             _rb.velocity = _jumpDirection * _jumpForce;
@@ -125,10 +147,7 @@ public class PlayerController : MonoBehaviour
             _jumpBufferCounter = 0f;
         }
 
-        if (Input.GetButtonUp("Jump") && _rb.velocity.y != 0f)
-        {
-            _coyoteTimeCounter = 0f;
-        }
+        
 
         //Key debugger
         /*if (Input.GetKeyDown(KeyCode.DownArrow)) 
@@ -153,8 +172,6 @@ public class PlayerController : MonoBehaviour
                 _audioSource.Play();
             }
         }
-
-        
     }
 
     private void FixedUpdate()

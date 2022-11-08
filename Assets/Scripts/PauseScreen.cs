@@ -25,6 +25,15 @@ public class PauseScreen : MonoBehaviour
         {
             ResumeGame();
         }
+        
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            if (_isPaused && touch.phase == TouchPhase.Began)
+            {
+                ResumeGame();
+            }
+        }
 
         //Debug.Log(_timer);
 
